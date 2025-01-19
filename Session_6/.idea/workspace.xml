@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca29c5d4-9e2f-4d32-a600-dfda79db8bd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Checkout_at_11_6_2024_6_46_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Checkout_at_11_6_2024_6_46_AM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit4/src/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/SuperPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_1_Examples/a_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_1_Examples/a_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Answers/a_BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Answers/a_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Answers/b_Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Answers/b_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Answers/c_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Answers/c_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Answers/d_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Answers/d_SchoolClub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Answers/d_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Examples/a_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Examples/a_Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Examples/a_SuperHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Examples/b_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_2_Examples/b_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_3_Answers/a_ActivityLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_3_Answers/a_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_3_Answers/b_ActivityLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_3_Answers/b_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_3_Answers/c_CYOA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_3_Answers/d_CYOA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_3_Examples/a_CommentsForDebuggin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_3_Examples/b_Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Answers/a_Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Answers/a_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Answers/b_Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Answers/b_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Answers/c_Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Answers/c_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Answers/d_Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Answers/d_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Answers/d_Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Examples/a_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Examples/a_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Examples/b_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Examples/b_Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Examples/b_SecretIdentity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit5/src/Unit_5_4_Examples/b_SuperHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit6/src/Demos/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit6/src/Demos/Wordle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/AP_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/AP_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit4/src/Unit_4_3_Examples/b_ReplaceChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit4/src/Unit_4_3_Examples/b_ReplaceChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit4/src/Unit_4_4_Answers/b_TreeOfStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit4/src/Unit_4_4_Answers/b_TreeOfStars.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ri4KubcPG4hAMtGHeAcSO6pjgs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca29c5d4-9e2f-4d32-a600-dfda79db8bd6" name="Changes" comment="" />
+      <created>1737028500426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737028500426</updated>
+      <workItem from="1737028501465" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
