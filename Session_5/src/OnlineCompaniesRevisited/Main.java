@@ -1,4 +1,6 @@
 package OnlineCompaniesRevisited;
 
-public class Main {
+public class Main
+{
+
 }

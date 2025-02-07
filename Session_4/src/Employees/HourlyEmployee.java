@@ -1,4 +1,37 @@
 package Employees;
 
-public class HourlyEmployee {
+public class HourlyEmployee
+{
+    private double hoursPerWeek;
+
+    // Call the Employee constructor and pass it a calculated annual salary
+
+    public HourlyEmployee(String name, double hourlySalary, double hoursPerWeek){
+
+
+    }
+
+    // Get the annual salary from the superclass and convert it back
+    // to hourly.
+    public double getHourlySalary()
+    {
+        return -1;
+    }
+
+    // Use the hourly salary input and convert it
+    // to the annual salary and update in the superclass
+
+    public void setHourlySalary(double hourlySalary){
+
+    }
+
+    /**
+     * Example output:
+     * Mike makes $18.0 per hour
+     */
+
+    public String toString()
+    {
+        return null;
+    }
 }

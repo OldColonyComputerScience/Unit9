@@ -1,4 +1,5 @@
 package Employees;
 
-public class Main {
+public class Main
+{
 }
